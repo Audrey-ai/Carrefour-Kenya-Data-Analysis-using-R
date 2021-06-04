@@ -1,4 +1,4 @@
-# Carrefour-Kenya-Data-Analysis-using-Unsupervised-Learning-in-R
+# Carrefour-Kenya-Data-Analysis-in-R
 # Description
 Working as a data scientist at Carrefour Kenya, the main aim is to undertake a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax) by performing various unsupervised learning techniques and later providing recommendations based on your insights.
 The four unsupervised learning techniques applied are Dimensionality reduction, Feature Selection, Association rules and Anomaly Detection.
